@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yehuda Frist</h1>
-<h3 align="center">A passionate, last semester, Computer Science student at The Hebrew University.</h3>
+<h3 align="center">A passionate, final semester, Computer Science student at The Hebrew University.</h3>
 
 - 🔭 I’m currently working on **completing my degree and landing my first job!**
 
